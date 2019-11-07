@@ -1,0 +1,24 @@
+{
+  "name": "XYZ",
+  "version": "1.0.0",
+  "description": "My delightful Nuxt.js project",
+  "author": "Baker",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt generate",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "nuxt": "^2.0.0",
+    "@nuxtjs/axios": "^5.3.6",
+    "@nuxtjs/pwa": "^3.0.0-0"
+  },
+  "devDependencies": {
+    "fomantic-ui-less": "^2.7.8",
+    "less": "^3.10.3",
+    "less-loader": "^5.0.0",
+    "vue-particles": "^1.0.9"
+  }
+}
